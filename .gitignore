@@ -29,7 +29,6 @@ ENV/
 
 # IDE
 .idea/
-.vscode/
 *.swp
 *.swo
 
@@ -44,3 +43,7 @@ context_audio.wav
 # Model files
 *.pt
 *.ckpt
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json
